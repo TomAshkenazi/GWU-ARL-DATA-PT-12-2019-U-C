@@ -6,21 +6,21 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Before You Begin
 
-1. Ensure that you have created a GitHub repository for your homework. **This is not to be confused with your class activities repository**.
+1. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
 
-2. Be sure that your homework repository is cloned on your computer.
+2. Clone the new repository to your computer.
 
 3. Inside your local git repository, create a directory for both of the VBA Challenges. Use the folder name to correspond to the challenge: **VBAStocks**.
 
 4. Inside the folder that you just created, add any VBA files. Theses will be the main scripts to run for each analysis.
 
-5. Push the above changes to GitHub.
+5. Push the above changes to GitHub or GitLab.
 
 ### Files
 
-* [Test Data](alphabetical_testing.xlsx) - Use this while developing your scripts.
+* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
@@ -66,7 +66,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
   * VBA Scripts as separate files.
 
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot.com/>.
+* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
 - - -
 
