@@ -14,3 +14,26 @@ computer_choice = random.choice(options)
 user_choice = input("Make your Choice: (r)ock, (p)aper, (s)cissors? ")
 
 # Run Conditionals
+if (computer_choice == 'r'):
+    if (user_choice == 'p'):
+        print('User Wins!')
+    elif (user_choice == 's'):
+        print('Computer Wins!')
+    else:
+        print('Tie!')
+
+if (computer_choice == 's'):
+    if (user_choice == 'p'):
+        print('Computer Wins!')
+    elif (user_choice == 'r'):
+        print('User Wins!')
+    else:
+        print('Tie!')
+
+if (computer_choice == 'p'):
+    if (user_choice == 'r'):
+        print('Computer Wins!')
+    elif (user_choice == 's'):
+        print('User Wins!')
+    else:
+        print('Tie!')
